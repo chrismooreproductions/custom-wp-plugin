@@ -1,0 +1,17 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "animate.css": "^3.5.2",
+    "hover.css": "^2.2.0",
+    "owl.carousel": "^2.2.0",
+    "parallax-js": "git+https://github.com/wagerfield/parallax.git"
+  }
+}
